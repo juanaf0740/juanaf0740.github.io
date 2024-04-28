@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<SproutLoudFeed xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" extractDate="2024-03-12T15:59:40.7231327+00:00" name="feed" xmlns="https://www.sproutloud.com/">
+<SproutLoudFeed>
 	<food>
 	<name>perros calientes</name>
 	<price>$5.95</price>
