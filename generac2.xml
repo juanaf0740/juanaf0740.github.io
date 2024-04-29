@@ -378,6 +378,58 @@
       <ProductDetailImages>
         <Image>https://www.generac.com/getmedia/4f7b0c14-52d8-4536-b223-b1adb7040a72/6377;;.aspx?width=300&amp;height=300&amp;ext=.jpg</Image>
       </ProductDetailImages>
-    </Product>    
+    </Product>
+	  <Product>
+<ProductID>56</ProductID>
+<MSRP>1149</MSRP>
+<ExternalId>gp8000e 50st</ExternalId>
+<SKU>7676</SKU>
+<Name>GP8000E COsense® 50ST</Name>
+<BrandExternalId>Generac</BrandExternalId>
+<CategoryExternalId>GPSeries</CategoryExternalId>
+<Description><p>Choose the affordable, reliable GP8000E 50ST&nbsp;(electric start) for recreational applications, job sites, and emergency backup power.</p> </Description>
+<ProductPageUrl>https://www.generac.com/All-Products/Generators/Portable-Generators/GP-Series/GP8000E-50ST</ProductPageUrl>
+<ProductCategory>Portable Generators</ProductCategory>
+<ImageUrl>https://www.generac.com/GeneracCorporate/media/Library/content/all-products/portable-recreational-power/GP%20Series/6500/GP8000_CoSense_HERO_NOREFLECT__2_-removebg-preview.png?ext=.png</ImageUrl>
+<ModelNumbers>
+<ModelNumber>7676</ModelNumber>
+</ModelNumbers>
+<Documents>
+<Document>
+<Type>Other</Type>
+<Name>Owner's Manual</Name>
+<URL>https://www.generac.com/GeneracCorporate/media/Library/content/home-solutions/portable-recreational-power/GP6500-and-GP8000E-OMNL_10000029705.pdf</URL>
+</Document>
+<Document>
+<Type>Spec Sheet</Type>
+<Name>Spec Sheet</Name>
+<URL>https://www.generac.com/GeneracCorporate/media/Library/content/all-products/portable-recreational-power/GP%20Series/8000E/GP8000E-50ST-CO_7676_Spec-Sheet_10000039427.pdf</URL>
+</Document>
+<Document>
+<Type>Brochure</Type>
+<Name>Brochure</Name>
+<URL>https://www.generac.com/generaccorporate/media/library/content/all-products/portable-recreational-power/gp_powerrush_sell-sheet_v2_online.pdf</URL>
+</Document>
+<Document>
+<Type>Warranty</Type>
+<Name>Warranty</Name>
+<URL>https://www.generac.com/GeneracCorporate/media/Library/content/all-products/portable-recreational-power/0K3663-rev-E.pdf</URL>
+</Document>
+</Documents>
+<ProductDetailImages>
+<Image>https://www.generac.com/getmedia/146b7733-a130-42bf-9191-02bae1222458/GP8000_CoSense_FRONT;;.aspx?width=768&height=512&ext=.jpg</Image>
+<Image>https://www.generac.com/getmedia/b04b981b-23a4-403b-91d4-15676cd6766c/GP8000E_CoSense_SIDE;;.aspx?width=768&height=512&ext=.jpg</Image>
+<Image>https://www.generac.com/getmedia/a0cd03e6-e1c3-4b26-b202-aac797823131/GP8000_CoSense_BACK;;.aspx?width=768&height=512&ext=.jpg</Image>
+</ProductDetailImages>
+<FeatureContentGroups>
+<FeatureContent>
+<Heading>Generac <strong>GP Series 8000E</strong> Portable Generator</Heading>
+<Description><p>Generac&rsquo;s GP8000E offers many benefits that make this model a favorite for emergency power or recreational use. <strong>PowerRush&trade; Advanced Technology</strong> delivers over 30% more starting capacity* (*increase electrical current upon demand above rated output when starting electric motors), and electric start makes the GP8000E easy to use (battery included). You&rsquo;ll always be prepared with the plug-in battery jack that keeps the battery charged and ready for unexpected outages. The long-lasting OHV engine and large-capacity steel fuel tank with fuel gauge provide increased durability and up to an 11-hour runtime at 50% load. Rough or rugged environments will not be an issue thanks to the covered outlets for added protection, heavy-duty wheels that will never go flat and a fold-down handle that will enable you to easily transport your generator to any location. The low-oil feature will automatically shut down the generator, preventing damage to the unit, while the hardened 1.25-in. steel-tube cradle increases strength and resilience. And with the regular maintenance alerts provided by your hour meter, you&rsquo;ll never be caught off guard.</p> </Description>
+<ImageURL>https://www.generac.com/GeneracCorporate/media/Library/content/all-products/portable-recreational-power/GP%20Series/8000E/GP8000E_Closeup-Panel.jpg?ext=.jpg</ImageURL>
+<Column1><p><strong>PowerRush&trade; ADVANCED TECHNOLOGY</strong> &ndash; Delivers over 30% more starting capacity allowing you to do more with less.*<br /> <br /> <strong>Electric start model </strong>for easy operation. (Battery Included)<br /> <br /> <strong>Generac&#39;s durable OHV engine</strong> with splash lubrication provides a long engine life.<br /> <br /> <strong>Large-capacity steel fuel tank</strong> with incorporated fuel gauge provides durability and up to a 11&nbsp;hour run-time at 50% load.</p> </Column1>
+<Column2><p><strong>Low-oil level shutdown&nbsp;</strong>automatically safeguards engine from damage.<br /> <br /> <strong>1 &frac14;&rdquo; steel-tube cradle </strong>for added durability and strength.<br /> <br /> <strong>Hour meter</strong>&nbsp;tracks maintenance intervals.<br /> <br /> <strong>Heavy-duty, never-flat wheels</strong>&nbsp;allow for easy portability.</p> <sub>*Increases electrical current upon demand above rated output when starting electric motors.</sub></Column2>
+</FeatureContent>
+</FeatureContentGroups>
+</Product>
   </Products>
 </SproutLoudFeed>
