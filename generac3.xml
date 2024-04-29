@@ -1,0 +1,879 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SproutLoudFeed xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" extractDate="2024-03-12T15:59:40.7231327+00:00" name="feed" xmlns="https://www.sproutloud.com/">
+  <Brands>
+    <Brand>
+      <ExternalId>Generac</ExternalId>
+      <Name>Generac Power Systems</Name>
+    </Brand>
+  </Brands>
+  <Categories>
+    <Category>
+      <ExternalId>GPSeries</ExternalId>
+      <Name>GP Series</Name>
+      <CategoryPageUrl>https://www.generac.com/All-Products/Generators/Portable-Generators/GP-Series</CategoryPageUrl>
+    </Category>
+    <Category>
+      <ExternalId>ManualTransferSwitches</ExternalId>
+      <Name>Manual Transfer Switches</Name>
+      <CategoryPageUrl>https://www.generac.com/All-Products/Transfer-Switches/Manual-Transfer-Switches</CategoryPageUrl>
+    </Category>
+    <Category>
+      <ExternalId>Parts&amp;Accessories</ExternalId>
+      <Name>Parts &amp; Accessories</Name>
+      <CategoryPageUrl>https://www.generac.com/All-Products/Parts-Accessories</CategoryPageUrl>
+    </Category>
+    <Category>
+      <ExternalId>ProfessionalGrade</ExternalId>
+      <Name>Professional Grade</Name>
+      <CategoryPageUrl>https://www.generac.com/All-Products/Pressure-Washers/Professional-Grade</CategoryPageUrl>
+    </Category>
+    <Category>
+      <ExternalId>ResidentialGrade</ExternalId>
+      <Name>Residential Grade</Name>
+      <CategoryPageUrl>https://www.generac.com/All-Products/Pressure-Washers/Residential-Grade</CategoryPageUrl>
+    </Category>
+    <Category>
+      <ExternalId>GeneracChore</ExternalId>
+      <Name>Generac Chore</Name>
+      <CategoryPageUrl>https://www.generac.com/All-Products/Generac-Chore</CategoryPageUrl>
+    </Category>
+    <Category>
+      <ExternalId>WaterPumps</ExternalId>
+      <Name>Water Pumps</Name>
+      <CategoryPageUrl>https://www.generac.com/All-Products/Water-Pumps-(1)</CategoryPageUrl>
+    </Category>
+    <Category>
+      <ExternalId>XDSeries</ExternalId>
+      <Name>XD Series</Name>
+      <CategoryPageUrl>https://www.generac.com/All-Products/Generators/Portable-Generators/XD-Series-(1)</CategoryPageUrl>
+    </Category>
+    <Category>
+      <ExternalId>PowerPact</ExternalId>
+      <Name>PowerPact</Name>
+      <CategoryPageUrl>https://www.generac.com/All-Products/Generators/Home-Backup-Generators/PowerPact</CategoryPageUrl>
+    </Category>
+    <Category>
+      <ExternalId>GuardianSeries</ExternalId>
+      <Name>Guardian Series</Name>
+      <CategoryPageUrl>https://www.generac.com/All-Products/Generators/Home-Backup-Generators/Guardian-Series</CategoryPageUrl>
+    </Category>
+    <Category>
+      <ExternalId>iQSeries</ExternalId>
+      <Name>iQ Series</Name>
+      <CategoryPageUrl>https://www.generac.com/All-Products/Generators/Portable-Generators/iQ-Series</CategoryPageUrl>
+    </Category>
+    <Category>
+      <ExternalId>EcoGen</ExternalId>
+      <Name>EcoGen</Name>
+      <CategoryPageUrl>https://www.generac.com/All-Products/Generators/Home-Backup-Generators/EcoGen</CategoryPageUrl>
+    </Category>
+    <Category>
+      <ExternalId>XTSeries</ExternalId>
+      <Name>XT Series</Name>
+      <CategoryPageUrl>https://www.generac.com/All-Products/Generators/Portable-Generators/XT-Series</CategoryPageUrl>
+    </Category>
+    <Category>
+      <ExternalId>XCSeries</ExternalId>
+      <Name>XC Series</Name>
+      <CategoryPageUrl>https://www.generac.com/All-Products/Generac-Chore/XC-Series</CategoryPageUrl>
+    </Category>
+    <Category>
+      <ExternalId>RSSeries</ExternalId>
+      <Name>RS Series</Name>
+      <CategoryPageUrl>https://www.generac.com/All-Products/Generators/Portable-Generators/RS-Series</CategoryPageUrl>
+    </Category>
+    <Category>
+      <ExternalId>AutomaticTransferSwitches</ExternalId>
+      <Name>Automatic Transfer Switches</Name>
+      <CategoryPageUrl>https://www.generac.com/All-Products/Transfer-Switches/Automatic-Transfer-Switches</CategoryPageUrl>
+    </Category>
+    <Category>
+      <ExternalId>GBSeries</ExternalId>
+      <Name>GB Series</Name>
+      <CategoryPageUrl>https://www.generac.com/All-Products/Generators/Portable-Generators/GB-Series</CategoryPageUrl>
+    </Category>
+    <Category>
+      <ExternalId>CleanEnergySolutions</ExternalId>
+      <Name>Clean Energy Solutions</Name>
+      <CategoryPageUrl>https://www.generac.com/All-Products/Clean-Energy</CategoryPageUrl>
+    </Category>
+    <Category>
+      <ExternalId>ProtectorSeries</ExternalId>
+      <Name>Protector Series</Name>
+      <CategoryPageUrl>https://www.generac.com/All-Products/Generators/Commercial-Generators/Protector-Series</CategoryPageUrl>
+    </Category>
+    <Category>
+      <ExternalId>Bi-fuel™Generators</ExternalId>
+      <Name>Bi-fuel™ Generators</Name>
+      <CategoryPageUrl>https://www.generac.com/All-Products/Generators/Business-Standby-Generators/Bi-fuel-Generators</CategoryPageUrl>
+    </Category>
+  </Categories>
+  <Products>
+    <Product>
+      <ProductID>1</ProductID>
+      <MSRP>3299</MSRP>
+      <ExternalId>gp15000</ExternalId>
+      <SKU>5734</SKU>
+      <Name>GP15000E</Name>
+      <BrandExternalId>Generac</BrandExternalId>
+      <CategoryExternalId>GPSeries</CategoryExternalId>
+      <Description>&lt;p&gt;Large enough to power much of your home during an outage, the GP15000E is welcome on many job sites to power tools and equipment.&lt;/p&gt;
+</Description>
+      <ProductPageUrl>https://www.generac.com/All-Products/Generators/Portable-Generators/GP-Series/GP15000E</ProductPageUrl>
+      <ProductCategory>Portable Generators</ProductCategory>
+      <ImageUrl>https://www.generac.com/GeneracCorporate/media/Library/content/all-products/portable-recreational-power/GP%20Series/15000E/generac-product-gp15000e-portable-model-5734.png?width=768&amp;height=480&amp;ext=.png</ImageUrl>
+      <ModelNumbers>
+        <ModelNumber>5734</ModelNumber>
+      </ModelNumbers>
+      <Documents>
+        <Document>
+          <Type>Spec Sheet</Type>
+          <Name>Spec Sheet</Name>
+          <URL>https://www.generac.com/GeneracCorporate/media/Library/content/all-products/portable-recreational-power/GP%20Series/0196650-A-GP15000E.pdf?ext=.pdf</URL>
+        </Document>
+        <Document>
+          <Type>Brochure</Type>
+          <Name>Brochure</Name>
+          <URL>https://www.generac.com/GeneracCorporate/media/Library/content/all-products/portable-recreational-power/0189200SBYGPSeriesPortableSS_newLowRes.pdf</URL>
+        </Document>
+        <Document>
+          <Type>Warranty</Type>
+          <Name>Warranty</Name>
+          <URL>https://www.generac.com/GeneracCorporate/media/Library/content/all-products/portable-recreational-power/0K3663-rev-E.pdf</URL>
+        </Document>
+        <Document>
+          <Type>Other</Type>
+          <Name>Owner's Manual</Name>
+          <URL>https://www.generac.com/GeneracCorporate/media/Library/content/home-solutions/portable-recreational-power/portable-generators/gp-series/GP15000-and-GP17500E-Owner-s-Manual_0H0676A.pdf</URL>
+        </Document>
+      </Documents>
+      <ProductDetailImages />
+      <FeatureContentGroups>
+        <FeatureContent>
+          <Heading>Generac &lt;strong&gt;GP Series 15000E&lt;/strong&gt; Portable Generator</Heading>
+          <Description>&lt;p&gt;A portable unit ideal for applications requiring a large amount of power without being permanent. Ideal for job sites and emergency applications.&lt;/p&gt;
+</Description>
+          <ImageURL>https://www.generac.com/GeneracCorporate/media/Library/content/all-products/portable-recreational-power/GP%20Series/15000E/generac-gp15000e-portable-control-panel-model-5734.jpg?width=768&amp;height=480&amp;ext=.jpg</ImageURL>
+          <Column1>&lt;p&gt;&lt;strong&gt;Generac&amp;#39;s OHVI&amp;reg; engine&lt;/strong&gt; incorporates full pressure lubrication with automotive style spin on oil filter for longer life engine.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Idle control reduces noise&lt;/strong&gt; and conserves fuel for extended run-times.&lt;br /&gt;
+&lt;br /&gt;
+&lt;strong&gt;Hour meter &lt;/strong&gt;tracks maintenance intervals.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Low-oil pressure shutdown&lt;/strong&gt; automatically safeguards engine from damage.&lt;/p&gt;
+</Column1>
+          <Column2>&lt;p&gt;&lt;strong&gt;Large-capacity fuel tank &lt;/strong&gt;with incorporated fuel gauge provides durability and extended run times.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;1 1/4&amp;quot; steel tube cradle&lt;/strong&gt; for added durability and strength.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Integrated lifting eye&lt;/strong&gt; for easy transport and security on the job site.&lt;/p&gt;
+</Column2>
+        </FeatureContent>
+      </FeatureContentGroups>
+    </Product>
+    <Product>
+      <ProductID>2</ProductID>
+      <MSRP>3649</MSRP>
+      <ExternalId>gp17500</ExternalId>
+      <SKU>5735</SKU>
+      <Name>GP17500E</Name>
+      <BrandExternalId>Generac</BrandExternalId>
+      <CategoryExternalId>GPSeries</CategoryExternalId>
+      <Description>&lt;p&gt;The most powerful portable generator on the market can power a 5-ton central air conditioner. Connect it to your home with a manual transfer switch.&lt;/p&gt;
+</Description>
+      <ProductPageUrl>https://www.generac.com/All-Products/Generators/Portable-Generators/GP-Series/GP17500E</ProductPageUrl>
+      <ProductCategory>Portable Generators</ProductCategory>
+      <ImageUrl>https://www.generac.com/GeneracCorporate/media/Library/content/all-products/portable-recreational-power/GP%20Series/17500E/generac-product-gp17500e-portable-model-5735.png?width=768&amp;height=480&amp;ext=.png</ImageUrl>
+      <ModelNumbers>
+        <ModelNumber>5735</ModelNumber>
+      </ModelNumbers>
+      <Documents>
+        <Document>
+          <Type>Spec Sheet</Type>
+          <Name>Spec Sheet</Name>
+          <URL>https://www.generac.com/GeneracCorporate/media/Library/content/all-products/portable-recreational-power/GP%20Series/0196640-A-GP17500E_1.pdf</URL>
+        </Document>
+        <Document>
+          <Type>Brochure</Type>
+          <Name>Brochure</Name>
+          <URL>https://www.generac.com/GeneracCorporate/media/Library/content/all-products/portable-recreational-power/0189200SBYGPSeriesPortableSS_newLowRes.pdf</URL>
+        </Document>
+        <Document>
+          <Type>Warranty</Type>
+          <Name>Warranty</Name>
+          <URL>https://www.generac.com/GeneracCorporate/media/Library/content/all-products/portable-recreational-power/0K3663-rev-E.pdf</URL>
+        </Document>
+        <Document>
+          <Type>Other</Type>
+          <Name>Owner's Manual</Name>
+          <URL>https://www.generac.com/GeneracCorporate/media/Library/content/home-solutions/portable-recreational-power/portable-generators/gp-series/GP15000-and-GP17500E-Owner-s-Manual_0H0676A.pdf</URL>
+        </Document>
+      </Documents>
+      <ProductDetailImages />
+      <FeatureContentGroups>
+        <FeatureContent>
+          <Heading>Generac &lt;strong&gt;GP Series 17500E&lt;/strong&gt; Portable Generator</Heading>
+          <Description>&lt;p&gt;
+	The most powerful portable generator on the market is an exceptional value. Powerful enough to start many 5-ton air conditioning units and can provide power for up to 16 circuits.&lt;/p&gt;
+</Description>
+          <ImageURL>https://www.generac.com/GeneracCorporate/media/Library/content/all-products/portable-recreational-power/GP%20Series/17500E/generac-gp17500e-portable-control-panel-model-5735.jpg?width=768&amp;height=480&amp;ext=.jpg</ImageURL>
+          <Column1>&lt;p&gt;
+	&lt;strong&gt;Generac&amp;#39;s OHVI&amp;reg; engine&lt;/strong&gt; incorporates full pressure lubrication with automotive style spin on oil filter for longer life engine.&lt;/p&gt;
+&lt;p&gt;
+	&lt;strong&gt;Idle control reduces noise&lt;/strong&gt; and conserves fuel for extended run-times.&lt;br /&gt;
+	&lt;br /&gt;
+	&lt;strong&gt;Hour meter &lt;/strong&gt;tracks maintenance intervals.&lt;/p&gt;
+&lt;p&gt;
+	&lt;strong&gt;Low-oil pressure shutdown&lt;/strong&gt; automatically safeguards engine from damage.&lt;/p&gt;
+</Column1>
+          <Column2>&lt;p&gt;
+	&lt;strong&gt;Large-capacity fuel tank &lt;/strong&gt;with incorporated fuel gauge provides durability and extended run times.&lt;/p&gt;
+&lt;p&gt;
+	&lt;strong&gt;Hardened 1 1/4&amp;quot; steel tube cradle&lt;/strong&gt; for added durability and strength.&lt;/p&gt;
+&lt;p&gt;
+	&lt;strong&gt;Integrated lifting eye&lt;/strong&gt; for easy transport and security on the job site.&lt;/p&gt;
+</Column2>
+        </FeatureContent>
+      </FeatureContentGroups>
+    </Product>
+    <Product>
+      <ProductID>3</ProductID>
+      <MSRP>389</MSRP>
+      <ExternalId>gp1800</ExternalId>
+      <SKU>5981</SKU>
+      <Name>GP1800</Name>
+      <BrandExternalId>Generac</BrandExternalId>
+      <CategoryExternalId>GPSeries</CategoryExternalId>
+      <Description>&lt;p&gt;Use this lightweight, affordable generator for recreation applications. It&amp;rsquo;s the perfect size for tailgating, camping, and outdoor parties.&lt;/p&gt;
+</Description>
+      <ProductPageUrl>https://www.generac.com/All-Products/Generators/Portable-Generators/GP-Series/GP1800</ProductPageUrl>
+      <ProductCategory>Portable Generators</ProductCategory>
+      <ImageUrl>https://www.generac.com/GeneracCorporate/media/Library/content/all-products/portable-recreational-power/GP%20Series/1800/generac-product-gp1800-portable-model-5981.png?width=768&amp;height=480&amp;ext=.png</ImageUrl>
+      <ModelNumbers>
+        <ModelNumber>5981</ModelNumber>
+      </ModelNumbers>
+      <Documents>
+        <Document>
+          <Type>Spec Sheet</Type>
+          <Name>Spec Sheet</Name>
+          <URL>https://www.generac.com/GeneracCorporate/media/Library/content/all-products/portable-recreational-power/GP%20Series/0196580-A-GP1800-5981.pdf?ext=.pdf</URL>
+        </Document>
+        <Document>
+          <Type>Brochure</Type>
+          <Name>Brochure</Name>
+          <URL>https://www.generac.com/GeneracCorporate/media/Library/content/all-products/portable-recreational-power/0189200SBYGPSeriesPortableSS_newLowRes.pdf</URL>
+        </Document>
+        <Document>
+          <Type>Warranty</Type>
+          <Name>Warranty</Name>
+          <URL>https://www.generac.com/GeneracCorporate/media/Library/content/all-products/portable-recreational-power/0K3663-rev-E.pdf</URL>
+        </Document>
+        <Document>
+          <Type>Spec Sheet</Type>
+          <URL />
+        </Document>
+      </Documents>
+      <ProductDetailImages />
+      <FeatureContentGroups>
+        <FeatureContent>
+          <Heading>&lt;strong&gt;Generac GP18000EFI Portable Generator &lt;/strong&gt;</Heading>
+          <Description>&lt;p&gt;From emergency home backup to DIY projects to the jobsite, the Generac GP18000EFI portable generator provides high wattage, dependable portable power.&amp;nbsp; Equipped with an 816cc engine with Electronic Fuel Injection, the GP18000EFI delivers power efficiently, providing up to 9 hours of runtime at 50% load.&amp;nbsp; TruePower&amp;trade; Technology safely powers sensitive electronics, appliances and tools while onboard COsense&amp;reg; Technology provides powerful protection against hazardous carbon monoxide.&amp;nbsp; The GP18000EFI also features electric start (battery included), low-oil shutdown protection, circuit breaker protected outlets and an hour meter with maintenance resets. The included never-flat wheel kit and available lifting eye accessory make transportation easy around the home or jobsite.&amp;nbsp;&lt;/p&gt;
+</Description>
+          <ImageURL>https://www.generac.com/GeneracCorporate/media/Library/content/all-products/portable-recreational-power/GP%20Series/6500/GP18000-CLOSE-UP.png?ext=.png</ImageURL>
+          <Column1>&lt;p&gt;&lt;b&gt;Featuring COsense&amp;reg; Technology: STOPS. ALERTS. &lt;em&gt;SAVES&lt;/em&gt;. &lt;/b&gt;Powerful protection against hazardous carbon monoxide.&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;Generac 816cc EFI Engine&lt;/b&gt; &amp;ndash; Delivers the right amount of power to get the best performance and efficiency out of your engine&amp;nbsp;&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;TruePower&amp;trade; Technology&lt;/b&gt; &amp;ndash; With less than 5% THD, safely powers sensitive electronics and tools&amp;nbsp;&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;Low-Oil Pressure Shutdown&lt;/b&gt; &amp;ndash; Automatically safeguards engine from damage&amp;nbsp;&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;Large Capacity Fuel Tank&lt;/b&gt; &amp;ndash; With incorporated fuel gauge, provides durability and extended run times&amp;nbsp;&lt;/p&gt;
+</Column1>
+          <Column2>&lt;p&gt;&lt;b&gt;Hardened 1 &amp;frac14;&amp;rdquo; Steel Tube Cradle&lt;/b&gt; &amp;ndash; For added strength and durability&amp;nbsp;&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;Hour Meter&lt;/b&gt; &amp;ndash; Tracks maintenance intervals&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;Heavy-Duty, Never-Flat Wheels &lt;/b&gt;&amp;ndash; For reliable portability&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;Electric Start&lt;/b&gt; &amp;ndash; Battery Included &amp;ndash; Provides hassle-free start-up&amp;nbsp;&lt;/p&gt;
+</Column2>
+        </FeatureContent>
+      </FeatureContentGroups>
+    </Product>
+    <Product>
+      <ProductID>4</ProductID>
+      <MSRP>169</MSRP>
+      <ExternalId>protector</ExternalId>
+      <SKU>6333</SKU>
+      <Name>Single Load 60A Manual Transfer Switch</Name>
+      <BrandExternalId>Generac</BrandExternalId>
+      <CategoryExternalId>ManualTransferSwitches</CategoryExternalId>
+      <Description>&lt;p&gt;Single Load 60A Manual Transfer Switch&lt;/p&gt;
+</Description>
+      <ProductPageUrl>https://www.generac.com/All-Products/Transfer-Switches/Manual-Transfer-Switches/Single-Load-60A-transfer-switch</ProductPageUrl>
+      <ProductCategory>Transfer Switches</ProductCategory>
+      <ImageUrl>https://www.generac.com/GeneracCorporate/media/Library/content/all-products/transfer-switches/portable-transfer-switches/6333.jpg?ext=.jpg</ImageUrl>
+      <ModelNumbers>
+        <ModelNumber>6333</ModelNumber>
+      </ModelNumbers>
+      <Documents />
+      <ProductDetailImages />
+    </Product>
+    <Product>
+      <ProductID>5</ProductID>
+      <MSRP>229</MSRP>
+      <ExternalId>protector</ExternalId>
+      <SKU>6334</SKU>
+      <Name>Single Load 100A Manual Transfer Switch</Name>
+      <BrandExternalId>Generac</BrandExternalId>
+      <CategoryExternalId>ManualTransferSwitches</CategoryExternalId>
+      <Description>&lt;p&gt;Single Load 100A Manual Transfer Switch&lt;/p&gt;
+</Description>
+      <ProductPageUrl>https://www.generac.com/All-Products/Transfer-Switches/Manual-Transfer-Switches/Single-Load-100A-Transfer-Switch</ProductPageUrl>
+      <ProductCategory>Transfer Switches</ProductCategory>
+      <ImageUrl>https://www.generac.com/GeneracCorporate/media/Library/content/all-products/transfer-switches/portable-transfer-switches/6333.jpg?ext=.jpg</ImageUrl>
+      <ModelNumbers>
+        <ModelNumber>6334</ModelNumber>
+      </ModelNumbers>
+      <Documents />
+      <ProductDetailImages />
+    </Product>
+    <Product>
+      <ProductID>6</ProductID>
+      <MSRP>569</MSRP>
+      <ExternalId>protector</ExternalId>
+      <SKU>6335</SKU>
+      <Name>Whole House 200A Utility / 50A Generator Manual Transfer Switch</Name>
+      <BrandExternalId>Generac</BrandExternalId>
+      <CategoryExternalId>ManualTransferSwitches</CategoryExternalId>
+      <Description>&lt;p&gt;Whole Panel - 200A Utility / 50A Generator Manual Transfer Switch&lt;/p&gt;
+</Description>
+      <ProductPageUrl>https://www.generac.com/All-Products/Transfer-Switches/Manual-Transfer-Switches/Whole-House-200A-Utility-50A</ProductPageUrl>
+      <ProductCategory>Transfer Switches</ProductCategory>
+      <ImageUrl>https://www.generac.com/GeneracCorporate/media/Library/content/all-products/transfer-switches/portable-transfer-switches/6635-angle2.jpg?ext=.jpg</ImageUrl>
+      <ModelNumbers>
+        <ModelNumber>6335</ModelNumber>
+      </ModelNumbers>
+      <Documents />
+      <ProductDetailImages>
+        <Image>https://www.generac.com/getmedia/2cdccb2d-a2fc-48a1-877f-889ca0e457e6/6335_1;;.aspx?width=500&amp;height=500&amp;ext=.jpg</Image>
+      </ProductDetailImages>
+    </Product>
+    <Product>
+      <ProductID>7</ProductID>
+      <MSRP>349</MSRP>
+      <ExternalId>protector</ExternalId>
+      <SKU>6377</SKU>
+      <Name>30-Amp 1-2 Circuit Manual Transfer Switch</Name>
+      <BrandExternalId>Generac</BrandExternalId>
+      <CategoryExternalId>ManualTransferSwitches</CategoryExternalId>
+      <Description>&lt;p&gt;Outdoor 30A Manual Transfer Switch (2 Appliances)&lt;/p&gt;
+</Description>
+      <ProductPageUrl>https://www.generac.com/All-Products/Transfer-Switches/Manual-Transfer-Switches/1-2-Circuit-30A-Transfer-Switch</ProductPageUrl>
+      <ProductCategory>Transfer Switches</ProductCategory>
+      <ImageUrl>https://www.generac.com/GeneracCorporate/media/Library/content/all-products/transfer-switches/portable-transfer-switches/1-2-Circuit-MTS.jpg?ext=.jpg</ImageUrl>
+      <ModelNumbers>
+        <ModelNumber>6377</ModelNumber>
+      </ModelNumbers>
+      <Documents />
+      <ProductDetailImages>
+        <Image>https://www.generac.com/getmedia/4f7b0c14-52d8-4536-b223-b1adb7040a72/6377;;.aspx?width=300&amp;height=300&amp;ext=.jpg</Image>
+      </ProductDetailImages>
+    </Product>
+    <Product>
+      <ProductID>8</ProductID>
+      <MSRP>549</MSRP>
+      <ExternalId>protector</ExternalId>
+      <SKU>6382</SKU>
+      <Name>Whole House 200A Utility / 30A Generator Manual Transfer Switch</Name>
+      <BrandExternalId>Generac</BrandExternalId>
+      <CategoryExternalId>ManualTransferSwitches</CategoryExternalId>
+      <Description>&lt;p&gt;Whole House 200A Utility 30A Generator Manual Transfer Switch&lt;/p&gt;
+</Description>
+      <ProductPageUrl>https://www.generac.com/All-Products/Transfer-Switches/Manual-Transfer-Switches/Whole-House-200A-Utility-30A</ProductPageUrl>
+      <ProductCategory>Transfer Switches</ProductCategory>
+      <ImageUrl>https://www.generac.com/GeneracCorporate/media/Library/content/all-products/transfer-switches/portable-transfer-switches/6635-angle2.jpg?ext=.jpg</ImageUrl>
+      <ModelNumbers>
+        <ModelNumber>6382</ModelNumber>
+      </ModelNumbers>
+      <Documents />
+      <ProductDetailImages>
+        <Image>https://www.generac.com/getmedia/2cdccb2d-a2fc-48a1-877f-889ca0e457e6/6335_1;;.aspx?width=500&amp;height=500&amp;ext=.jpg</Image>
+      </ProductDetailImages>
+    </Product>
+    <Product>
+      <ProductID>9</ProductID>
+      <MSRP>279</MSRP>
+      <ExternalId>mobilelink</ExternalId>
+      <SKU>6463</SKU>
+      <Name>Discontinued: Mobile Link™ - CDMA</Name>
+      <BrandExternalId>Generac</BrandExternalId>
+      <CategoryExternalId>Parts&amp;Accessories</CategoryExternalId>
+      <Description>&lt;p&gt;Mobile Link is the new cellular remote monitoring system from Generac&amp;reg; that lets you check on your standby generator&amp;rsquo;s status, or receive timely notifications when something is needed, using your computer, tablet or smartphone. With Mobile Link, you&amp;rsquo;ll always know exactly what your generator&amp;nbsp;is doing &amp;ndash; or not doing.&lt;/p&gt;
+</Description>
+      <ProductPageUrl>https://www.generac.com/All-Products/Parts-Accessories/Mobile-Link-CDMA</ProductPageUrl>
+      <ProductCategory>Parts &amp; Accessories</ProductCategory>
+      <ImageUrl>https://www.generac.com/GeneracCorporate/media/Library/content/all-products/mobile-link/Mobile-Link-CDMA_768x480.png?ext=.png</ImageUrl>
+      <ModelNumbers>
+        <ModelNumber>6463</ModelNumber>
+      </ModelNumbers>
+      <Documents>
+        <Document>
+          <Type>Spec Sheet</Type>
+          <Name>Spec Sheet</Name>
+          <URL>https://www.generac.com/GeneracCorporate/media/Library/content/all-products/0198700sby-mobilelink-consumer.pdf?ext=.pdf</URL>
+        </Document>
+        <Document>
+          <Type>Warranty</Type>
+          <Name>Warranty</Name>
+          <URL>https://www.generac.com/GeneracCorporate/media/Library/content/all-products/0K2556-rev-E-MobileLink-Warranty.pdf?ext=.pdf</URL>
+        </Document>
+        <Document>
+          <Type>Other</Type>
+          <Name>Manual</Name>
+          <URL>https://www.generac.com/GeneracCorporate/media/Library/content/parts-accessories/Generac-Home-Generators-Mobile-Link-Remote-Monitoring_manual.pdf?ext=.pdf</URL>
+        </Document>
+      </Documents>
+      <ProductDetailImages />
+    </Product>
+    <Product>
+      <ProductID>10</ProductID>
+      <MSRP>279</MSRP>
+      <ExternalId>mobilelink</ExternalId>
+      <SKU>64634</SKU>
+      <Name>Mobile Link™ - WiFi</Name>
+      <BrandExternalId>Generac</BrandExternalId>
+      <CategoryExternalId>Parts&amp;Accessories</CategoryExternalId>
+      <Description>&lt;p&gt;Mobile Link is the new cellular remote monitoring system from Generac&amp;reg; that lets you check on your standby generator&amp;rsquo;s status, or receive timely notifications when something is needed, using your computer, tablet or smartphone. With Mobile Link, you&amp;rsquo;ll always know exactly what your generator&amp;nbsp;is doing &amp;ndash; or not doing.&lt;/p&gt;
+</Description>
+      <ProductPageUrl>https://www.generac.com/All-Products/Parts-Accessories/Mobile-Link-WiFi</ProductPageUrl>
+      <ProductCategory>Parts &amp; Accessories</ProductCategory>
+      <ImageUrl>https://www.generac.com/GeneracCorporate/media/Library/content/all-products/mobile-link/Mobile-Link-with-Cell_768x480.png?ext=.png</ImageUrl>
+      <ModelNumbers>
+        <ModelNumber>64634</ModelNumber>
+      </ModelNumbers>
+      <Documents>
+        <Document>
+          <Type>Spec Sheet</Type>
+          <Name>Spec Sheet</Name>
+          <URL>https://www.generac.com/GeneracCorporate/media/Library/content/all-products/Updated-MobileLink_ServiceLevels_ConsumerBrochure_digital-(2).pdf?ext=.pdf</URL>
+        </Document>
+        <Document>
+          <Type>Other</Type>
+          <URL />
+        </Document>
+        <Document>
+          <Type>Other</Type>
+          <Name>Manual</Name>
+          <URL>https://www.generac.com/GeneracCorporate/media/Library/content/parts-accessories/WiFi-Manual-RevB.pdf?ext=.pdf</URL>
+        </Document>
+      </Documents>
+      <ProductDetailImages />
+    </Product>
+    <Product>
+      <ProductID>11</ProductID>
+      <MSRP>1149</MSRP>
+      <ExternalId>4200psi</ExternalId>
+      <SKU>6565</SKU>
+      <Name>4200PSI Pressure Washer</Name>
+      <BrandExternalId>Generac</BrandExternalId>
+      <CategoryExternalId>ProfessionalGrade</CategoryExternalId>
+      <Description>&lt;p&gt;Its 12&amp;quot; pneumatic wheels and exclusive professional-grade spray gun complement the powerful 420cc Generac OHV horizontal shaft engine and professional-grade triplex pump. And with a long 50&amp;#39; non-marring rubber hose, you&amp;#39;ll be ready to take on even the biggest cleaning jobs.&lt;/p&gt;
+</Description>
+      <ProductPageUrl>https://www.generac.com/All-Products/Pressure-Washers/Professional-Grade/4200PSI-Commercial-6565</ProductPageUrl>
+      <ProductCategory>Pressure Washers</ProductCategory>
+      <ImageUrl>https://www.generac.com/GeneracCorporate/media/Library/content/all-products/pressure-washers/commercial/4200-model-6565/generac-pressure-washers-4200-com-hero-model-6565.jpg?width=768&amp;height=768&amp;ext=.jpg</ImageUrl>
+      <ModelNumbers>
+        <ModelNumber>6565</ModelNumber>
+      </ModelNumbers>
+      <Documents>
+        <Document>
+          <Type>Spec Sheet</Type>
+          <Name>Spec Sheet</Name>
+          <URL>https://www.generac.com/GeneracCorporate/media/Library/content/all-products/pressure-washers/commercial/0192850SBY-J.pdf?ext=.pdf</URL>
+        </Document>
+        <Document>
+          <Type>Brochure</Type>
+          <Name>Brochure</Name>
+          <URL>https://www.generac.com/GeneracCorporate/media/Library/content/Brochure/PowerWashers/0193210SBY-Professional-Power-Washer-3100-4200PSI-Brochure.pdf?ext=.pdf</URL>
+        </Document>
+        <Document>
+          <Type>Warranty</Type>
+          <Name>Warranty</Name>
+          <URL>https://www.generac.com/GeneracCorporate/media/Library/content/all-products/pressure-washers/commercial/PW-ProSeriesWarranty.pdf?ext=.pdf</URL>
+        </Document>
+        <Document>
+          <Type>Other</Type>
+          <URL />
+        </Document>
+      </Documents>
+      <ProductDetailImages>
+        <Image>https://www.generac.com/GeneracCorporate/media/Library/content/all-products/pressure-washers/commercial/3800-model-6564/generac-pressure-washer-3800-com-gun-and-lance-model-6564.jpg?width=768&amp;height=480&amp;ext=.jpg</Image>
+        <Image>https://www.generac.com/GeneracCorporate/media/Library/content/all-products/pressure-washers/commercial/4200-model-6565/generac-pressure-washer-4200-com-front-right-3-4-model-6565.jpg?width=768&amp;height=480&amp;ext=.jpg</Image>
+        <Image>https://www.generac.com/GeneracCorporate/media/Library/content/all-products/pressure-washers/commercial/4200-model-6565/generac-pressure-washer-4200-com-back-left-3-4-model-6565.jpg?width=768&amp;height=480&amp;ext=.jpg</Image>
+      </ProductDetailImages>
+      <FeatureContentGroups>
+        <FeatureContent>
+          <FeaturedLeftHeadingText>FOLDING HANDLE</FeaturedLeftHeadingText>
+          <FeaturedLeftText>&lt;p&gt;Take up even less space in your garage or shed during storage, and transport the pressure washer even more easily&lt;/p&gt;</FeaturedLeftText>
+          <FeaturedLeftImage>https://www.generac.com/GeneracCorporate/media/Library/content/all-products/pressure-washers/commercial/4200-model-6565/generac-pressure-washer-4200-com-handle-down-model-6565.jpg?ext=.jpg</FeaturedLeftImage>
+          <FeaturedMiddleImage />
+          <FeaturedRightImage />
+        </FeatureContent>
+      </FeatureContentGroups>
+    </Product>
+    <Product>
+      <ProductID>12</ProductID>
+      <MSRP>399</MSRP>
+      <ExternalId>onewash</ExternalId>
+      <SKU>6602</SKU>
+      <Name>OneWash Pressure Washer</Name>
+      <BrandExternalId>Generac</BrandExternalId>
+      <CategoryExternalId>ResidentialGrade</CategoryExternalId>
+      <Description>&lt;p&gt;The OneWash&amp;trade; pressure washer offers variable pressures from 2000 to 3100 PSI. It&amp;rsquo;s four pressure washers in one. You set the pressure to the cleaning task.&lt;/p&gt;
+</Description>
+      <ProductPageUrl>https://www.generac.com/All-Products/Pressure-Washers/Residential-Grade/OneWash</ProductPageUrl>
+      <ProductCategory>Pressure Washers</ProductCategory>
+      <ImageUrl>https://www.generac.com/GeneracCorporate/media/Library/content/all-products/pressure-washers/residential/onewash-model-6602/generac-pressure-washer-onewash-hero-768x768-model-6602.jpg?width=768&amp;height=768&amp;ext=.jpg</ImageUrl>
+      <ModelNumbers>
+        <ModelNumber>6602</ModelNumber>
+      </ModelNumbers>
+      <Documents>
+        <Document>
+          <Type>Spec Sheet</Type>
+          <Name>Spec Sheet</Name>
+          <URL>https://www.generac.com/GeneracCorporate/media/Library/content/all-products/pressure-washers/residential/0198950SBY-D-OneWASH.pdf?ext=.pdf</URL>
+        </Document>
+        <Document>
+          <Type>Brochure</Type>
+          <Name>Brochure</Name>
+          <URL>https://www.generac.com/GeneracCorporate/media/Library/content/Brochure/PowerWashers/0198090SBY-onewash-brochure.pdf?ext=.pdf</URL>
+        </Document>
+        <Document>
+          <Type>Warranty</Type>
+          <Name>Warranty</Name>
+          <URL>https://www.generac.com/GeneracCorporate/media/Library/content/all-products/pressure-washers/residential/PW-ResiSeriesWarranty.pdf?ext=.pdf</URL>
+        </Document>
+        <Document>
+          <Type>Other</Type>
+          <URL />
+        </Document>
+      </Documents>
+      <ProductDetailImages>
+        <Image>https://www.generac.com/GeneracCorporate/media/Library/content/all-products/pressure-washers/pressure-washer-accessoriesgenerac-ergonomic-pressure-washer-gun.jpg?width=768&amp;height=480&amp;ext=.jpg</Image>
+        <Image>https://www.generac.com/GeneracCorporate/media/Library/content/all-products/pressure-washers/residential/onewash-model-6602/generac-onewash-pressure-washer-car-model-6602-a.jpg?width=768&amp;height=480&amp;ext=.jpg</Image>
+        <Image>https://www.generac.com/GeneracCorporate/media/Library/content/all-products/pressure-washers/residential/onewash-model-6602/generac-onewash-pressure-washer-siding-model-6602-a.jpg?width=768&amp;height=480&amp;ext=.jpg</Image>
+      </ProductDetailImages>
+      <FeatureContentGroups>
+        <FeatureContent>
+          <FeaturedLeftHeadingText>PowerDial™ Variable-Power Control</FeaturedLeftHeadingText>
+          <FeaturedLeftText>&lt;p&gt;Provides total control at the turn of a dial. Easily adjust the intensity of the spray to clean a wide range of surfaces with a single, easy-to-use control.&lt;/p&gt;
+</FeaturedLeftText>
+          <FeaturedLeftImage>https://www.generac.com/GeneracCorporate/media/Library/content/all-products/pressure-washers/residential/onewash-model-6602/generac-pressure-washer-onewash-power-dial-model-6602.jpg?ext=.jpg</FeaturedLeftImage>
+          <FeaturedMiddleHeadingText>Folding Handle</FeaturedMiddleHeadingText>
+          <FeaturedMiddleText>&lt;p&gt;Lets the already compact OneWash take up even less space in your garage or shed during storage. Makes it easy to transport, too.&lt;/p&gt;
+</FeaturedMiddleText>
+          <FeaturedMiddleImage>https://www.generac.com/GeneracCorporate/media/Library/content/all-products/pressure-washers/residential/onewash-model-6602/generac-pressure-washer-onewash-handle-down-model-6602.png?ext=.png</FeaturedMiddleImage>
+          <FeaturedRightHeadingText>Drainable Detergent Tank</FeaturedRightHeadingText>
+          <FeaturedRightText>&lt;p&gt;Integrated 3/4 gallon tank with drain plug provides convenient onboard storage for cleaning detergents. Can be quickly emptied and cleaned with a garden hose.&lt;/p&gt;
+</FeaturedRightText>
+          <FeaturedRightImage>https://www.generac.com/GeneracCorporate/media/Library/content/all-products/pressure-washers/residential/onewash-model-6602/generac-pressure-washer-onewash-soap-tank-model-6602.jpg?ext=.jpg</FeaturedRightImage>
+        </FeatureContent>
+      </FeatureContentGroups>
+    </Product>
+    <Product>
+      <ProductID>13</ProductID>
+      <MSRP>1199</MSRP>
+      <ExternalId>BDPWG0067120</ExternalId>
+      <SKU>6712</SKU>
+      <Name>Generac PRO Belt-Driven Pressure Washer</Name>
+      <BrandExternalId>Generac</BrandExternalId>
+      <CategoryExternalId>GeneracChore</CategoryExternalId>
+      <Description>&lt;p&gt;The Generac PRO belt driven pressure washer G0067120 cleans surfaces at home or on jobsites. From decks to commercial trucks, the Generac G-Force engine power is at work.&lt;/p&gt;
+</Description>
+      <ProductPageUrl>https://www.generac.com/All-Products/Generac-Chore/Belt-Driven-Pressure-Washer</ProductPageUrl>
+      <ProductCategory>Generac Chore</ProductCategory>
+      <ImageUrl>https://www.generac.com/getmedia/85c5dc2a-0314-40cc-95a3-51b2f70e633e/BeltDrive_3800-HERO_2_GENPRO_1;;.aspx?height=262&amp;ext=.jpg</ImageUrl>
+      <ModelNumbers>
+        <ModelNumber>6712</ModelNumber>
+      </ModelNumbers>
+      <Documents />
+      <ProductDetailImages>
+        <Image>https://www.generac.com/getmedia/fc38a83e-9f4c-4cc5-aee3-010990c89499/side-of-pro-pressure-washer;;.aspx?height=262&amp;ext=.jpg</Image>
+        <Image>https://www.generac.com/getmedia/2860308e-5e16-4aa2-9c62-fa569d5f76aa/angle-of-pro-pressure-washer;;.aspx?height=262&amp;ext=.jpg</Image>
+        <Image>https://www.generac.com/getmedia/7a499d1a-3122-4cd0-b685-5d98828e8989/back-of-pro-pressure-washer;;.aspx?height=262&amp;ext=.jpg</Image>
+      </ProductDetailImages>
+    </Product>
+    <Product>
+      <ProductID>14</ProductID>
+      <MSRP>389</MSRP>
+      <ExternalId>cw15k</ExternalId>
+      <SKU>6821</SKU>
+      <Name>CW15K-6821</Name>
+      <BrandExternalId>Generac</BrandExternalId>
+      <CategoryExternalId>WaterPumps</CategoryExternalId>
+      <Description>Water Pump CP20 Series</Description>
+      <ProductPageUrl>https://www.generac.com/All-Products/Water-Pumps-(1)/CW15K-6821</ProductPageUrl>
+      <ProductCategory>Water Pumps</ProductCategory>
+      <ImageUrl>https://www.generac.com/GeneracCorporate/media/Library/content/all-products/water-pumps/CW-Series/generac-water-pump-cw15k-hero-model-6821.jpg?width=768&amp;height=480&amp;ext=.jpg</ImageUrl>
+      <ModelNumbers>
+        <ModelNumber>6821</ModelNumber>
+      </ModelNumbers>
+      <Documents>
+        <Document>
+          <Type>Spec Sheet</Type>
+          <Name>Spec Sheet</Name>
+          <URL>https://www.generac.com/GeneracCorporate/media/Library/content/all-products/water-pumps/CW-Series/0L1986-Rev-A.pdf?ext=.pdf</URL>
+        </Document>
+        <Document>
+          <Type>Warranty</Type>
+          <Name>Warranty</Name>
+          <URL>https://www.generac.com/GeneracCorporate/media/Library/content/all-products/water-pumps/0K9072-rev-A-water-pump-warranty.pdf?ext=.pdf</URL>
+        </Document>
+        <Document>
+          <Type>Brochure</Type>
+          <Name>Water Pumps Brochure</Name>
+          <URL>https://www.generac.com/GeneracCorporate/media/Library/content/all-products/water-pumps/Generac-water-pumps_brochure.pdf?ext=.pdf</URL>
+        </Document>
+      </Documents>
+      <ProductDetailImages>
+        <Image>https://www.generac.com/GeneracCorporate/media/Library/content/all-products/water-pumps/CW-Series/generac-water-pump-cw15k-with-hose-kit-model-6821.jpg?width=768&amp;height=480&amp;ext=.jpg</Image>
+        <Image>https://www.generac.com/GeneracCorporate/media/Library/content/all-products/water-pumps/CW-Series/generac-water-pump-cw15k-3-4-back-side-model-6821.jpg?width=768&amp;height=480&amp;ext=.jpg</Image>
+        <Image>https://www.generac.com/GeneracCorporate/media/Library/content/all-products/water-pumps/CW-Series/generac-water-pump-cw15k-close-up-1-model-6821.jpg?width=768&amp;height=480&amp;ext=.jpg</Image>
+      </ProductDetailImages>
+      <FeatureContentGroups>
+        <FeatureContent>
+          <Heading>GENERAC&lt;strong&gt; CW15K 1-1/2” Clean Water Pump &lt;/strong&gt;</Heading>
+          <Description>&lt;p&gt;
+	Powered by a Generac 79cc OHV engine, the CW15K delivers the high-flow capacity you need to take on most pumping jobs. Use it to remove standing water from basement floors, drain swimming pools, empty window wells, you name it. All in a lightweight package that&amp;rsquo;s easy to take where you need it.&lt;/p&gt;
+</Description>
+          <ImageURL>https://www.generac.com/GeneracCorporate/media/Library/content/all-products/water-pumps/CW-Series/generac-water-pump-cw15k-front-side-model-6821.png?width=768&amp;height=480&amp;ext=.png</ImageURL>
+          <Column1>&lt;p&gt;
+	&lt;strong&gt;Powerful Generac 79cc OHV engine&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;
+	&lt;strong&gt;Easy prime&lt;/strong&gt; custom funnel design for quick and easy priming&lt;/p&gt;
+&lt;p&gt;
+	&lt;strong&gt;Ergonomic carry handle&lt;/strong&gt; with soft grip for comfort&lt;/p&gt;
+&lt;p&gt;
+	&lt;strong&gt;All inclusive kit&lt;/strong&gt; includes 10 foot suction hose, 25 foot discharge hose, and strainer&lt;/p&gt;
+</Column1>
+          <Column2>&lt;p&gt;
+	&lt;strong&gt;Color-coded suction and discharge ports&lt;/strong&gt; to ensure the correct hose connections&lt;/p&gt;
+&lt;p&gt;
+	&lt;strong&gt;Powerful pump&lt;/strong&gt; can easily pump up to 80 gallons per minute&lt;/p&gt;
+&lt;p&gt;
+	&lt;strong&gt;High precision carbon ceramic mechanical seal&lt;/strong&gt; for long life&lt;/p&gt;
+&lt;p&gt;
+	&lt;strong&gt;Onboard instructions&lt;/strong&gt; with icons of key touch points make this pump easy to use&lt;/p&gt;
+</Column2>
+        </FeatureContent>
+      </FeatureContentGroups>
+    </Product>
+    <Product>
+      <ProductID>15</ProductID>
+      <MSRP>519</MSRP>
+      <ExternalId>st20k</ExternalId>
+      <SKU>6822</SKU>
+      <Name>ST20K-6822</Name>
+      <BrandExternalId>Generac</BrandExternalId>
+      <CategoryExternalId>WaterPumps</CategoryExternalId>
+      <Description>Water Pump CP20 Series</Description>
+      <ProductPageUrl>https://www.generac.com/All-Products/Water-Pumps-(1)/ST20K-6822</ProductPageUrl>
+      <ProductCategory>Water Pumps</ProductCategory>
+      <ImageUrl>https://www.generac.com/GeneracCorporate/media/Library/content/all-products/water-pumps/ST-Series/generac-water-pump-st20k-hero-model-6822.jpg?width=768&amp;height=480&amp;ext=.jpg</ImageUrl>
+      <ModelNumbers>
+        <ModelNumber>6822</ModelNumber>
+      </ModelNumbers>
+      <Documents>
+        <Document>
+          <Type>Spec Sheet</Type>
+          <Name>Spec Sheet</Name>
+          <URL>https://www.generac.com/GeneracCorporate/media/Library/content/all-products/water-pumps/ST-Series/0L1987-Rev-A.pdf?ext=.pdf</URL>
+        </Document>
+        <Document>
+          <Type>Warranty</Type>
+          <Name>Warranty</Name>
+          <URL>https://www.generac.com/GeneracCorporate/media/Library/content/all-products/water-pumps/0K9072-rev-A-water-pump-warranty.pdf?ext=.pdf</URL>
+        </Document>
+        <Document>
+          <Type>Brochure</Type>
+          <Name>Water Pumps Brochure</Name>
+          <URL>https://www.generac.com/GeneracCorporate/media/Library/content/all-products/water-pumps/Generac-water-pumps_brochure.pdf?ext=.pdf</URL>
+        </Document>
+      </Documents>
+      <ProductDetailImages>
+        <Image>https://www.generac.com/GeneracCorporate/media/Library/content/all-products/water-pumps/ST-Series/generac-water-pump-st20k-with-hose-kit-model-6822.jpg?width=768&amp;height=480&amp;ext=.jpg</Image>
+        <Image>https://www.generac.com/GeneracCorporate/media/Library/content/all-products/water-pumps/ST-Series/generac-water-pump-st20k-3-4-back-side-model-6822.jpg?width=768&amp;height=480&amp;ext=.jpg</Image>
+        <Image>https://www.generac.com/GeneracCorporate/media/Library/content/all-products/water-pumps/ST-Series/generac-water-pump-st20k-close-up-3-model-6822.jpg?width=768&amp;height=480&amp;ext=.jpg</Image>
+      </ProductDetailImages>
+      <FeatureContentGroups>
+        <FeatureContent>
+          <Heading>GENERAC&lt;strong&gt; ST20K 2” Semi-Trash Water Pump&lt;/strong&gt;</Heading>
+          <Description>&lt;p&gt;
+	Specifically engineered to handle muddy or sandy water, the ST20K is powered by a 208cc Generac engine that pumps up to 158 gallons per minute. So it&amp;rsquo;s ideal for your toughest applications. With features such as low-oil shut down to protect the engine from damage, it&amp;rsquo;s both durable and easy to use.&lt;/p&gt;
+</Description>
+          <ImageURL>https://www.generac.com/GeneracCorporate/media/Library/content/all-products/water-pumps/ST-Series/generac-water-pump-st20k-side-model-6822.png?width=768&amp;height=480&amp;ext=.png</ImageURL>
+          <Column1>&lt;p&gt;
+	&lt;strong&gt;Generac 208cc OHV engine&lt;/strong&gt; with low-oil shut down&lt;/p&gt;
+&lt;p&gt;
+	&lt;strong&gt;Easy prime custom funnel design&lt;/strong&gt; for quick and easy priming&lt;/p&gt;
+&lt;p&gt;
+	&lt;strong&gt;Folding handle&lt;/strong&gt; for easy transportation&lt;/p&gt;
+&lt;p&gt;
+	&lt;strong&gt;Large 3 gallon steel fuel tank&lt;/strong&gt; with incorporated fuel gauge provides up to 5 hours runtime&lt;/p&gt;
+&lt;p&gt;
+	&lt;strong&gt;Durable 1&amp;rdquo; frame&lt;/strong&gt; to withstand the harsh environment&lt;/p&gt;
+</Column1>
+          <Column2>&lt;p&gt;
+	&lt;strong&gt;All inclusive kit&lt;/strong&gt; includes 12 foot suction hose, 25 foot discharge hose, and strainer&lt;/p&gt;
+&lt;p&gt;
+	&lt;strong&gt;Color-coded suction and discharge ports&lt;/strong&gt; to ensure the correct hose connections&lt;/p&gt;
+&lt;p&gt;
+	&lt;strong&gt;Powerful pump&lt;/strong&gt; can easily pump up to 158 gallons per minute&lt;/p&gt;
+&lt;p&gt;
+	&lt;strong&gt;Durable silicon carbide mechanical seal &lt;/strong&gt;provides protection from abrasive materials&lt;/p&gt;
+&lt;p&gt;
+	&lt;strong&gt;Onboard instructions&lt;/strong&gt; with icons of key touch points make this pump easy to use&lt;/p&gt;
+</Column2>
+        </FeatureContent>
+      </FeatureContentGroups>
+    </Product>
+    <Product>
+      <ProductID>16</ProductID>
+      <MSRP>379</MSRP>
+      <ExternalId>protector</ExternalId>
+      <SKU>6852</SKU>
+      <Name>Homelink 30A MTS</Name>
+      <BrandExternalId>Generac</BrandExternalId>
+      <CategoryExternalId>ManualTransferSwitches</CategoryExternalId>
+      <Description>&lt;p&gt;During a power outage, safely deliver power to 8-10 circuits such as your refrigerator &amp;amp; freezer, lights, furnace, water heater, well pump or sump pump.&amp;nbsp;&lt;/p&gt;
+</Description>
+      <ProductPageUrl>https://www.generac.com/All-Products/Transfer-Switches/Manual-Transfer-Switches/homelink-30a-transfer-switch</ProductPageUrl>
+      <ProductCategory>Transfer Switches</ProductCategory>
+      <ImageUrl>https://www.generac.com/GeneracCorporate/media/Library/content/all-products/transfer-switches/portable-transfer-switches/HomeLink-Front_new.png?ext=.png</ImageUrl>
+      <ModelNumbers>
+        <ModelNumber>6852</ModelNumber>
+      </ModelNumbers>
+      <Documents />
+      <ProductDetailImages>
+        <Image>https://www.generac.com/GeneracCorporate/media/Library/content/all-products/transfer-switches/portable-transfer-switches/HomeLink-OneTouch_2.jpg?ext=.jpg</Image>
+        <Image>https://www.generac.com/GeneracCorporate/media/Library/content/all-products/transfer-switches/portable-transfer-switches/HomeLink-Callout.jpg?ext=.jpg</Image>
+      </ProductDetailImages>
+    </Product>
+    <Product>
+      <ProductID>17</ProductID>
+      <MSRP>429</MSRP>
+      <ExternalId>protector</ExternalId>
+      <SKU>6853</SKU>
+      <Name>Homelink 30A MTS w/ Power Inlet Box Resin</Name>
+      <BrandExternalId>Generac</BrandExternalId>
+      <CategoryExternalId>ManualTransferSwitches</CategoryExternalId>
+      <Description>&lt;p&gt;During a power outage, safely deliver power to 8-10 circuits such as your refridgerator &amp;amp; freezer, lights, furnace, water heater, well pump or sump pump.&amp;nbsp;&lt;/p&gt;
+</Description>
+      <ProductPageUrl>https://www.generac.com/All-Products/Transfer-Switches/Manual-Transfer-Switches/homelink-30a-transfer-switch-resin</ProductPageUrl>
+      <ProductCategory>Transfer Switches</ProductCategory>
+      <ImageUrl>https://www.generac.com/GeneracCorporate/media/Library/content/all-products/transfer-switches/portable-transfer-switches/Homelink-6853-Kit.jpg?ext=.jpg</ImageUrl>
+      <ModelNumbers>
+        <ModelNumber>6853</ModelNumber>
+      </ModelNumbers>
+      <Documents />
+      <ProductDetailImages>
+        <Image>https://www.generac.com/GeneracCorporate/media/Library/content/all-products/transfer-switches/portable-transfer-switches/HomeLink-Front_new.png?ext=.png</Image>
+        <Image>https://www.generac.com/GeneracCorporate/media/Library/content/all-products/transfer-switches/portable-transfer-switches/Inlet-Box-Gray_350x350.jpg?ext=.jpg</Image>
+        <Image>https://www.generac.com/getmedia/b3d2687e-6264-49e3-9744-ace009d50435/Generator-Cord;;.aspx?width=500&amp;height=500&amp;ext=.jpg</Image>
+      </ProductDetailImages>
+    </Product>
+    <Product>
+      <ProductID>18</ProductID>
+      <MSRP>459</MSRP>
+      <ExternalId>protector</ExternalId>
+      <SKU>6854</SKU>
+      <Name>Homelink 30A MTS w/ Power Inlet Box Aluminum</Name>
+      <BrandExternalId>Generac</BrandExternalId>
+      <CategoryExternalId>ManualTransferSwitches</CategoryExternalId>
+      <Description>&lt;p&gt;During a power outage, safely deliver power to 8-10 circuits such as your refridgerator &amp;amp; freezer, lights, furnace, water heater, well pump or sump pump.&amp;nbsp;&lt;/p&gt;
+</Description>
+      <ProductPageUrl>https://www.generac.com/All-Products/Transfer-Switches/Manual-Transfer-Switches/homelink-30a-transfer-switch-aluminum</ProductPageUrl>
+      <ProductCategory>Transfer Switches</ProductCategory>
+      <ImageUrl>https://www.generac.com/GeneracCorporate/media/Library/content/all-products/transfer-switches/portable-transfer-switches/Homelink-6854-Kit.jpg?ext=.jpg</ImageUrl>
+      <ModelNumbers>
+        <ModelNumber>6854</ModelNumber>
+      </ModelNumbers>
+      <Documents />
+      <ProductDetailImages>
+        <Image>https://www.generac.com/GeneracCorporate/media/Library/content/all-products/transfer-switches/portable-transfer-switches/HomeLink-Front_new.png?ext=.png</Image>
+        <Image>https://www.generac.com/GeneracCorporate/media/Library/content/all-products/transfer-switches/portable-transfer-switches/30A-50A-inlet-Box-Alum_small.jpg</Image>
+        <Image>https://www.generac.com/GeneracCorporate/media/Library/content/all-products/transfer-switches/portable-transfer-switches/Generator-Cord.jpg?ext=.jpg</Image>
+      </ProductDetailImages>
+    </Product>
+    <Product>
+      <ProductID>56</ProductID>
+      <MSRP>1149</MSRP>
+      <ExternalId>gp8000e 50st</ExternalId>
+      <SKU>7676</SKU>
+      <Name>GP8000E COsense® 50ST</Name>
+      <BrandExternalId>Generac</BrandExternalId>
+      <CategoryExternalId>GPSeries</CategoryExternalId>
+      <Description>&lt;p&gt;Choose the affordable, reliable GP8000E 50ST&amp;nbsp;(electric start) for recreational applications, job sites, and emergency backup power.&lt;/p&gt;
+</Description>
+      <ProductPageUrl>https://www.generac.com/All-Products/Generators/Portable-Generators/GP-Series/GP8000E-50ST</ProductPageUrl>
+      <ProductCategory>Portable Generators</ProductCategory>
+      <ImageUrl>https://www.generac.com/GeneracCorporate/media/Library/content/all-products/portable-recreational-power/GP%20Series/6500/GP8000_CoSense_HERO_NOREFLECT__2_-removebg-preview.png?ext=.png</ImageUrl>
+      <ModelNumbers>
+        <ModelNumber>7676</ModelNumber>
+      </ModelNumbers>
+      <Documents>
+        <Document>
+          <Type>Other</Type>
+          <Name>Owner's Manual</Name>
+          <URL>https://www.generac.com/GeneracCorporate/media/Library/content/home-solutions/portable-recreational-power/GP6500-and-GP8000E-OMNL_10000029705.pdf</URL>
+        </Document>
+        <Document>
+          <Type>Spec Sheet</Type>
+          <Name>Spec Sheet</Name>
+          <URL>https://www.generac.com/GeneracCorporate/media/Library/content/all-products/portable-recreational-power/GP%20Series/8000E/GP8000E-50ST-CO_7676_Spec-Sheet_10000039427.pdf</URL>
+        </Document>
+        <Document>
+          <Type>Brochure</Type>
+          <Name>Brochure</Name>
+          <URL>https://www.generac.com/generaccorporate/media/library/content/all-products/portable-recreational-power/gp_powerrush_sell-sheet_v2_online.pdf</URL>
+        </Document>
+        <Document>
+          <Type>Warranty</Type>
+          <Name>Warranty</Name>
+          <URL>https://www.generac.com/GeneracCorporate/media/Library/content/all-products/portable-recreational-power/0K3663-rev-E.pdf</URL>
+        </Document>
+      </Documents>
+      <ProductDetailImages>
+        <Image>https://www.generac.com/getmedia/146b7733-a130-42bf-9191-02bae1222458/GP8000_CoSense_FRONT;;.aspx?width=768&amp;height=512&amp;ext=.jpg</Image>
+        <Image>https://www.generac.com/getmedia/b04b981b-23a4-403b-91d4-15676cd6766c/GP8000E_CoSense_SIDE;;.aspx?width=768&amp;height=512&amp;ext=.jpg</Image>
+        <Image>https://www.generac.com/getmedia/a0cd03e6-e1c3-4b26-b202-aac797823131/GP8000_CoSense_BACK;;.aspx?width=768&amp;height=512&amp;ext=.jpg</Image>
+      </ProductDetailImages>
+      <FeatureContentGroups>
+        <FeatureContent>
+          <Heading>Generac &lt;strong&gt;GP Series 8000E&lt;/strong&gt; Portable Generator</Heading>
+          <Description>&lt;p&gt;Generac&amp;rsquo;s GP8000E offers many benefits that make this model a favorite for emergency power or recreational use. &lt;strong&gt;PowerRush&amp;trade; Advanced Technology&lt;/strong&gt; delivers over 30% more starting capacity* (*increase electrical current upon demand above rated output when starting electric motors), and electric start makes the GP8000E easy to use (battery included). You&amp;rsquo;ll always be prepared with the plug-in battery jack that keeps the battery charged and ready for unexpected outages. The long-lasting OHV engine and large-capacity steel fuel tank with fuel gauge provide increased durability and up to an 11-hour runtime at 50% load. Rough or rugged environments will not be an issue thanks to the covered outlets for added protection, heavy-duty wheels that will never go flat and a fold-down handle that will enable you to easily transport your generator to any location. The low-oil feature will automatically shut down the generator, preventing damage to the unit, while the hardened 1.25-in. steel-tube cradle increases strength and resilience. And with the regular maintenance alerts provided by your hour meter, you&amp;rsquo;ll never be caught off guard.&lt;/p&gt;
+</Description>
+          <ImageURL>https://www.generac.com/GeneracCorporate/media/Library/content/all-products/portable-recreational-power/GP%20Series/8000E/GP8000E_Closeup-Panel.jpg?ext=.jpg</ImageURL>
+          <Column1>&lt;p&gt;&lt;strong&gt;PowerRush&amp;trade; ADVANCED TECHNOLOGY&lt;/strong&gt; &amp;ndash; Delivers over 30% more starting capacity allowing you to do more with less.*&lt;br /&gt;
+&lt;br /&gt;
+&lt;strong&gt;Electric start model &lt;/strong&gt;for easy operation. (Battery Included)&lt;br /&gt;
+&lt;br /&gt;
+&lt;strong&gt;Generac&amp;#39;s durable OHV engine&lt;/strong&gt; with splash lubrication provides a long engine life.&lt;br /&gt;
+&lt;br /&gt;
+&lt;strong&gt;Large-capacity steel fuel tank&lt;/strong&gt; with incorporated fuel gauge provides durability and up to a 11&amp;nbsp;hour run-time at 50% load.&lt;/p&gt;
+</Column1>
+          <Column2>&lt;p&gt;&lt;strong&gt;Low-oil level shutdown&amp;nbsp;&lt;/strong&gt;automatically safeguards engine from damage.&lt;br /&gt;
+&lt;br /&gt;
+&lt;strong&gt;1 &amp;frac14;&amp;rdquo; steel-tube cradle &lt;/strong&gt;for added durability and strength.&lt;br /&gt;
+&lt;br /&gt;
+&lt;strong&gt;Hour meter&lt;/strong&gt;&amp;nbsp;tracks maintenance intervals.&lt;br /&gt;
+&lt;br /&gt;
+&lt;strong&gt;Heavy-duty, never-flat wheels&lt;/strong&gt;&amp;nbsp;allow for easy portability.&lt;/p&gt;
+&lt;sub&gt;*Increases electrical current upon demand above rated output when starting electric motors.&lt;/sub&gt;</Column2>
+        </FeatureContent>
+      </FeatureContentGroups>
+    </Product>    
+  </Products>
+</SproutLoudFeed>
